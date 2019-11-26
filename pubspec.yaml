@@ -1,0 +1,9 @@
+name: company_commute_backend
+description: A web server for the company commute project.
+
+environment:
+  sdk: '>=2.5.0 <3.0.0'
+
+dependencies:
+
+dev_dependencies:
